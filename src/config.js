@@ -1,5 +1,5 @@
 export const {
-  APP_PORT = 4004,
+  APP_PORT = 4005,
   NODE_ENV = 'development',
 
   DB_USERNAME = 'admin',

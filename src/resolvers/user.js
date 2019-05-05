@@ -16,7 +16,6 @@ export default {
   Mutation: {
     signUp: (root, arg, context, info) => {
       // validation
-      
       return User.create(arg)
     }
   }
